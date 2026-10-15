@@ -1,0 +1,3 @@
+npm i -D typescript @types/node esbuild
+npm i -D @types/jest
+DEBUG=testcontainers* npx jest message.prisma

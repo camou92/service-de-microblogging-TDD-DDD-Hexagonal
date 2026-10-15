@@ -1,0 +1,4 @@
+dist
+node_modules
+npm i -D jest ts-jest
+npx ts-jest config:init
